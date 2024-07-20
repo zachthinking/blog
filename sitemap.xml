@@ -5,35 +5,35 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>/write2024/about/</loc>
+    <loc>/blog/about/</loc>
     <lastmod>2024-06-06</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
 </url>
 
 <url>
-    <loc>/write2024/archives/break-unknown/</loc>
+    <loc>/blog/archives/break-unknown/</loc>
     <lastmod>2024-06-15</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/write2024/archives/seven-habits/</loc>
+    <loc>/blog/archives/seven-habits/</loc>
     <lastmod>2024-06-09</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/write2024/archives/how-to-improve/</loc>
+    <loc>/blog/archives/how-to-improve/</loc>
     <lastmod>2024-06-06</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/write2024/archives/start/</loc>
+    <loc>/blog/archives/start/</loc>
     <lastmod>2024-06-06</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
