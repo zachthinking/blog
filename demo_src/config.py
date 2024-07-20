@@ -10,7 +10,7 @@ archives_page_size = 30
 fetch_remote_imgs = False
 enable_jsdelivr = {
     "enabled": False,
-    "repo": "zachthinking/write2024@gh-pages"
+    "repo": "zachthinking/blog@gh-pages"
 }
 locale = "Asia/Shanghai"
 category_by_folder = False
